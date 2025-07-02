@@ -1,26 +1,24 @@
-# IMT Open AI Hub
+# ChallengeHub
 
-Welcome to the IMT Open AI Hub!  
+Welcome to the ChallengeHub folder!  
 
-This repository is created to share datasets, define machine learning challenges, and collaborate on real-world AI projects.  
+This is where we define and host various machine learning and data science challenges for the community.
 
-## 📂 Repository Structure
+## What you'll find here:
+- Detailed descriptions of challenges
+- Data links and resources related to each challenge
+- Instructions and submission guidelines
 
-- **/ChallengeHub**  
-  Project ideas, tasks, and instructions.
+## How to participate:
+1. Choose a challenge you want to work on.
+2. Read the challenge description and requirements carefully.
+3. Develop your solution using the provided datasets.
+4. Submit your work (notebooks, scripts, models) by creating a Pull Request to the `/Notebooks` or `/codes` folder.
+5. Share your insights and findings in your submission.
 
-- **/Datasets**  
-  Public datasets for analysis, modeling, and exploration.
+## Contribution guidelines:
+- Follow the naming conventions for your files (e.g., `yourGitHubUsername_challengeName.ipynb`).
+- Ensure your submission runs without errors.
+- Document your code and analysis clearly.
 
-- **/Codes**  
-  Contributions from the community: notebooks, analysis, models.
-
-## 🚀 How to Participate
-
-1. Check the `/Datasets` folder and choose a dataset.
-2. Read the challenge description in `/ChallengeHub`.
-3. Create your analysis or model in a Jupyter Notebook.
-4. Submit a Pull Request to add your work to `/Codes`.
-
-Let's learn and build together!
-
+Let's solve exciting problems and learn together!
