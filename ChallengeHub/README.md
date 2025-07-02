@@ -13,7 +13,7 @@ This is where we define and host various machine learning and data science chall
 1. Choose a challenge you want to work on.
 2. Read the challenge description and requirements carefully.
 3. Develop your solution using the provided datasets.
-4. Submit your work (notebooks, scripts, models) by creating a Pull Request to the `/Notebooks` or `/codes` folder.
+4. Submit your work (notebooks, scripts, models) by creating a Pull Request to the `/Codes` folder.
 5. Share your insights and findings in your submission.
 
 ## Contribution guidelines:
