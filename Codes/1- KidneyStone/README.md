@@ -24,6 +24,7 @@ Participants should add:
 ## 📂 Folder Structure Example
 
 Codes/
+
   classification/
     kidney_stone_classifier.py or ipynb
     
