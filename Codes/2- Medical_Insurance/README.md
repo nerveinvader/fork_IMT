@@ -26,10 +26,6 @@ Scripts to save and load trained models.
 
 ## 📂 Folder Structure Example
 
-Codes/
-
-regression_eda/
-
-insurance_cost_regression.py or ipynb
+Codes/2- Medical_Insurance_your_github_username.py or ipynb
   
 
