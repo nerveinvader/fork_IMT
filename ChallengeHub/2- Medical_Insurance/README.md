@@ -51,7 +51,7 @@ This dataset is provided for educational purposes and is licensed under MIT
 
 ## Dataset Location
 
-[🔗 Link to dataset on Kaggle](https://www.kaggle.com/datasets/imtkaggleteam/health-insurance-dataset)
+Check the /Datasets direction
 
 ## Contact
 
