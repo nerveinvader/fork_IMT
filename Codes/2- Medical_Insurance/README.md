@@ -1,10 +1,10 @@
-🧮 Codes – Medical Insurance Cost Prediction Project
+# 🧮 Codes – Medical Insurance Cost Prediction Project
 
 This folder contains all scripts and notebooks related to modeling and analyzing insurance expenses and premiums.
 
-🧠 What to Submit Here
+## 🧠 What to Submit Here
 
-Participants should add:
+## Participants should add:
 
 Regression Models
 
@@ -23,7 +23,8 @@ Model Evaluation & Serialization
 
 Code to evaluate predictions (e.g., R², RMSE).
 Scripts to save and load trained models.
-📂 Folder Structure Example
+
+## 📂 Folder Structure Example
 
 Codes/
   regression_eda/
