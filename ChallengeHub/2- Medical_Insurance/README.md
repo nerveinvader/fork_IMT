@@ -51,7 +51,7 @@ This dataset is provided for educational purposes and is licensed under MIT
 
 ## Dataset Location
 
-Check the /Datasets direction
+Check the `Datasets` folder.
 
 ## Contact
 
