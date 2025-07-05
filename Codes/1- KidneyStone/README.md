@@ -26,13 +26,13 @@ Participants should add:
 Codes/
 
   classification/
-    kidney_stone_classifier.py or ipynb
+    kidney_stone_classifier_yourusername.py or ipynb
     
   detection/
-    object_detection_training.py or ipynb
+    object_detection_training_yourusername.py or ipynb
   
   preprocessing/
-    augmentation_pipeline.py or ipynb
+    augmentation_pipeline_yourusername.py or ipynb
     
   utils/
-    convert_annotations.py or ipynb
+    convert_annotations_yourusername.py or ipynb
