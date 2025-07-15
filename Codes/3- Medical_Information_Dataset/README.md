@@ -32,6 +32,9 @@ This folder contains all notebooks and scripts related to analysis, modeling, an
 Codes/
 
 ├── 01_EDA_MID_yourname.ipynb
+
 ├── 02_TextCleaning_MID_yourname.ipynb
+
 ├── 03_Classification_Baseline_yourname.ipynb
+
 └── 04_BERT_Model_MID_yourname.ipynb
