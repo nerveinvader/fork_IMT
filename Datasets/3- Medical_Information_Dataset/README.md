@@ -32,6 +32,13 @@ This dataset supports research and development in the fields of NLP, healthcare 
 
 ## Files Included
 
+## Dataset Location
+
+Download the dataset: [Click Here](https://www.kaggle.com/datasets/imtkaggleteam/medical-information-dataset)
+
+- `MID.xlsx`: Main dataset with detailed drug info.
+- `Therapeutic_class_counts.xlsx`: Class distribution summary.
+
 - `MID.xlsx`: Full dataset of 192,000+ medicine entries.
 - `Therapeutic_class_counts.xlsx`: Summarized distribution of medicine categories.
 
@@ -47,5 +54,6 @@ This dataset supports research and development in the fields of NLP, healthcare 
 
 ## License
 
-MIT – Educational and non-commercial use only.
+CC BY 4.0
+
 
